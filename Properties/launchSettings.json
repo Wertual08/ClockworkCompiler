@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResourceCompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "-i ../../../../TestResources/Resources -o ../../../../TestResources/Compilation -t ../../../../TestResources/IDTable.txt"
+    }
+  }
+}
